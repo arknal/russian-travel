@@ -1,0 +1,21 @@
+.cover {
+  font-family: "Inter", sans-serif;
+  box-sizing: border-box;
+  padding: 0 48px;
+}
+@media screen and (max-width: 1152px) {
+  .cover {
+    padding: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 896px) {
+  .cover {
+    padding: 0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  
+}
