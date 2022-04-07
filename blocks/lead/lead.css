@@ -1,4 +1,7 @@
 .lead {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
   width: 100%;
