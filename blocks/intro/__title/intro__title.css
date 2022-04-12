@@ -2,10 +2,6 @@
   margin: 0 0 40px;
   max-width: 690px;
   font-style: normal;
-  /* Без использования letter-spacing, с указанными в макете параметрами, текст заголовка
-  не помещается в одну строку.
-  */
-  letter-spacing: -3px;
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
