@@ -4,7 +4,6 @@
 @import url(../blocks/page/__content/page__content.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__lang-item/header__lang-item.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
@@ -18,7 +17,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__li-title/intro__li-title.css);
+@import url(../blocks/intro/__bold-text/intro__bold-text.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/places/places.css);
@@ -38,17 +37,3 @@
 @import url(../blocks/footer/__nav-item/footer__nav-item.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-@media screen and (max-width: 1152px) {
- 
-}
-@media screen and (max-width: 896px) {
- 
-}
-/* ДОП. ТОЧКА ПЕРЕХОДА */
-@media screen and (max-width: 720px) {
- 
-}
-
-@media screen and (max-width: 544px) {
-  
-}

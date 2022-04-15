@@ -6,7 +6,6 @@
   font-family: "Inter", sans-serif;
   color: #FFF;
 }
-
 @media screen and (max-width: 1152px) {
   .place {
     grid-template-columns: minmax(320px, max-content) minmax(min-content, 456px);
@@ -19,7 +18,6 @@
     grid-template-columns: minmax(320px, 340px) minmax(min-content, 456px);
     column-gap: 28px;
   }
- 
 }
 @media screen and (max-width: 720px) {
   .place {

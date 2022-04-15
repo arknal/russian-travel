@@ -7,3 +7,8 @@
   padding: 28px 0 24px;
   text-rendering: optimizeLegibility;
 }
+@media screen and (max-width: 544px) {
+  .page {
+    padding: 16px 0 24px;
+  }
+}
